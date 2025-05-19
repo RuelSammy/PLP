@@ -1,0 +1,36 @@
+1. Overview of Global Burden
+Our analysis of global COVID-19 data reveals a disproportionate distribution of cases and deaths across countries.
+
+Nations with large populations—such as the United States, India, and Brazil—contribute the highest raw case totals.
+
+However, after normalizing by population (cases per million), smaller nations sometimes show a heavier impact, underlining the need for per capita metrics in cross-country comparisons.
+
+2. Mortality Outcomes and Influencing Factors
+Mortality rates due to COVID-19 vary considerably by country.
+
+Even countries with advanced healthcare systems report high death rates, suggesting that other variables—such as response timing, age distribution, and policy effectiveness—play key roles.
+
+The correlation heatmap in our notebook indicates strong associations between death rates and variables like median age, hospital bed availability, and GDP per capita.
+
+3. Disparities in Vaccine Coverage
+Vaccination rollout has not been uniform globally.
+
+Our bar and pie chart visualizations show that high-income countries generally achieved broader and faster vaccine coverage.
+
+Countries with limited economic resources tend to lag significantly behind.
+
+The scatter plots suggest a moderate inverse relationship between vaccination rates and death rates, although causality cannot be established due to confounding variables such as variant emergence and healthcare access.
+
+4. Temporal Trends and Infection Waves
+Time-series analysis using 7-day rolling averages reveals regional and temporal variation in the spread of COVID-19.
+
+Most countries experienced multiple infection waves, though the timing and magnitude of these waves differed.
+
+Factors such as travel restrictions, seasonal effects, and variant spread likely contributed to these differences.
+
+5. Socioeconomic Indicators and COVID-19 Metrics
+Our correlation matrix reveals meaningful links between COVID-19 metrics and socioeconomic variables.
+
+Countries with higher GDP per capita and HDI typically report more cases and higher testing rates, which may be attributed to better data infrastructure and broader test availability.
+
+These countries also tend to have higher vaccination coverage, pointing to the importance of economic capacity in pandemic response.
